@@ -26,7 +26,7 @@ webcam video -> MediaPipe landmarks -> preprocessing -> classifier -> word on sc
 | Date | Milestone |
 |---|---|
 | Nov 20 | Finalize model: test, tune and evaluate models, analyze errors |
-| Dec 1 | Course project presentation and live demo |
+| Dec 3 | Course project presentation and live demo |
 | Dec 8 | Final report: problem, methods, results and quantitative analysis |
 
 ## Repository contents
