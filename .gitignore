@@ -1,0 +1,31 @@
+# Kaggle credentials - NEVER commit these
+.kaggle/
+kaggle.json
+access_token
+.env
+
+# Data (large; each teammate downloads it with download_data.py)
+data/
+processed/
+train.csv
+subset.csv
+failed.csv
+sign_to_prediction_index_map.json
+
+# Trained models and generated results
+*.pt
+*.pth
+*_confusion_matrix.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
